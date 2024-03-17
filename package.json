@@ -1,0 +1,23 @@
+{
+  "name": "teademonstration",
+  "version": "1.0.0",
+  "description": "TeaDemonstration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ryslik777/TeaDemonstration.git"
+  },
+  "dependencies": {
+    "leleka123456": "1.0.2",
+    "galetska222": "1.0.1"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ryslik777/TeaDemonstration/issues"
+  },
+  "homepage": "https://github.com/Ryslik777/TeaDemonstration#readme"
+}
